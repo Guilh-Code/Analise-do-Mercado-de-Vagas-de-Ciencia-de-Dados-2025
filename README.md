@@ -137,10 +137,11 @@
 
 <p align="center"><i>Abaixo, uma imagem da fase inicial de planejamento e construção do layout.</i></p>
 <div align="center">
-<img src="Template_50%.png" alt="Construção do Dashboard" width="600"/>
+<img src="Template_50%25.png" alt="Construção do Dashboard" width="600"/>
 </div>
 
 <p>Após a estruturação, foram aplicados design, formatação e otimização para chegar à versão final, que inclui:</p>
+
 - **KPIs Principais:** Cartões com o total de vagas e as médias salariais.
 - **Filtros Interativos:** Segmentações de dados por cargo, modalidade e indústria.
 - **Análise de Senioridade:** Gráficos mostrando a distribuição de vagas e a média salarial por nível.
