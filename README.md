@@ -122,7 +122,7 @@
   - <i>O modelo consegue explicar cerca de 62% da variação nos salários com base nas características da vaga, um resultado sólido para dados do mundo real.</i>
 
 <div align="center">
-<a href="SEU_LINK_PARA_O_JUPYTER_NOTEBOOK" target="_blank">
+<a href="https://github.com/Guilh-Code/Analise-do-Mercado-de-Vagas-de-Ciencia-de-Dados-2025/blob/main/modelo_salario.ipynb" target="_blank">
   <img src="https://img.shields.io/badge/Ver%20C%C3%B3digo%20Completo%20(Jupyter)-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Ver Código no Jupyter Notebook"/>
 </a>
 </div>
