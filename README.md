@@ -138,6 +138,9 @@
 <div align="center">
 <img src="Template_50%25.png" alt="Construção do Dashboard" width="600"/>
 </div>
+<div align="center">
+<img src="Templeta_Oficial.jpg" alt="Construção do Dashboard" width="600"/>
+</div>
 
 <p>Após a estruturação, foram aplicados design, formatação e otimização para chegar à versão final, que inclui:</p>
 
